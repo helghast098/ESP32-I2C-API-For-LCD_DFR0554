@@ -12,7 +12,7 @@
 └── 
 ```
 **NOTES**<br>
-The FreeRTOS kernel clock speed must be set to 1000Hz for the API to work properly.
+The FreeRTOS kernel clock speed must be set greater than 500Hz for the API to work properly.
 
 **How to Use:**<br>
 Copy the directory LCD_DFR0554 into the components directory of the ESP-32 project
