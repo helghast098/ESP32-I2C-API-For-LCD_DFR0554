@@ -1,4 +1,4 @@
-# API-For-LCD_DFR0554
+# API-For-LCD_DFR0554 (I2C)
 
 ```bash
 | README.md (This File)
@@ -7,8 +7,8 @@
 │   ├── include # Header files
 │   │   └── LCD_DFR0554.h # Function prototypes for LCD.  Also contains custom data types for LCD
 │   │  
-│   ├── src # Source files
-│   └── LCD_DFR0554.c  # Function definitions for LCD
+│   └── src # Source files
+│       └── LCD_DFR0554.c # Function definitions for LCD
 └── 
 ```
 **NOTES**<br>
